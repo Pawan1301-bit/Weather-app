@@ -1,1 +1,1 @@
-try here : https://weather-app-nu-dun-85.vercel.app/
+try here : https://pawanbhatt-weatherapp.vercel.app/
