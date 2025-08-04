@@ -29,7 +29,7 @@ const weather = () => {
         setCity(e.target.value);
     }
     
-    const API_KEY = import.meta.env.KEY;
+    const API_KEY = import.meta.env.VITE_KEY;
     
     async function fetchapi(){
         const API_URL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${API_KEY}`;
